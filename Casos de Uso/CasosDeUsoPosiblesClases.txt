@@ -1,0 +1,35 @@
+
+Funcionalidades:
+
+->Gestion Documento
+    -Cargar Documento(CSV)
+    -Guardar Documento
+    -Crear Documento
+    -Eliminar Documento
+->Gestion Hoja
+    -Añadir hoja
+    -Eliminar hoja
+->Gestion Bloque
+    -Copiar contenidos de bloque
+    -Cortar contenidos de bloque
+->Gestion celda
+    -Modificar contenido de celda
+    -Get contenido celda
+->Gestion Bloque
+    -Ordenar Bloque 
+    -Buscar Bloque
+    -Reemplazar Bloque
+->Operaciones entre celdas y rangos
+    
+
+Posibles clases:
++Documento 
++Hoja
++Fila
++Columna
++Bloque(rango de celdas)
++Celdas
++VarNumerica
++VarFecha
++VarTexto
++VarEstadisticas 
