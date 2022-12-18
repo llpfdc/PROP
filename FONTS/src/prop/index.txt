@@ -1,0 +1,7 @@
+Main --> codigo de la clase Main del programa principal
+domain --> directorio donde se encuentra el codigo de las clases de la capa de dominio
+excepciones --> directorio donde se encuentra el codigo de las clases que gestionan excepciones
+persistence --> directorio donde se encuentra el codigo de las clases de la capa de persistencia
+presentacion --> directorio donde se encuentra el codigo de las clases de la capa de presentacion
+
+

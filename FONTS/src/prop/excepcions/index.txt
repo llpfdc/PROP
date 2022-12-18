@@ -1,0 +1,19 @@
+addColumnaOutofBounds --> clase que gestiona la excepcion cuando se intena añadir una columna fuera de rango
+addFilaOutofBounds --> clase que gestiona la excepcion cuando se intena añadir una fila fuera de rango
+autoReferencia --> clase que gestiona la excepcion cuando se intena hacer una autoReferencia
+cantPaste --> clase que gestiona la excepcion cuando se intena pegar sin haber copiado antes
+differentSizeBloque --> clase que gestiona la excepcion cuando se intena hacer operaciones con bloques que han de tener las mismas dimenciones pero no lo son
+invalidFormatDato --> clase que gestiona la excepcion cuando se introduce un dato a una celda de formato invalido
+minSizeDoc --> clase que gestiona la excepcion cuando se intena tener un documento sin hojas
+minSizeHojaCol --> clase que gestiona la excepcion cuando se intena tener una hoja sin columnas
+minSizeHojaFil --> clase que gestiona la excepcion cuando se intena tener una hoja sin fila
+nonNumericData --> clase que gestiona la excepcion cuando se intena introducir un dato sin comillas que no sea numerico o una funcion
+notIncludedCol --> clase que gestiona la excepcion cuando se intena referenciar una columna inexistente
+referenciaCircular --> clase que gestiona la excepcion cuando se intena hacer una refrencia circular
+rmColNonExistent --> clase que gestiona la excepcion cuando se intena eliminar una columna inexistente
+rmFilaNonExistent --> clase que gestiona la excepcion cuando se intena eliminar una fila inexistente
+rmHojaNonExistent --> clase que gestiona la excepcion cuando se intena eliminar una hoja inexistente
+
+
+
+

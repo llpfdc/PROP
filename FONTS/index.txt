@@ -1,0 +1,3 @@
+src --> directorio que contiene los codigos fuentes de las clases principales y clases test
+Como utilizar el Makefile.txt --> archivo txt que explica como tilizar el Makefile
+Makefile --> Makefile para compilar el código

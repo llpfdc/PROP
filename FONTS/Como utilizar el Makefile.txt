@@ -1,0 +1,11 @@
+Importante: para poder utilizar el Makefile se debe tener unzip, javac y openjdk-11-jdk instalados.
+
+-"make jar" crear un .jar ejecutable del proyecto.
+-"make" compila el programa
+-"make test" compila los test
+
+Si se quiere ejecutar sin el .jar,  hay que estar en la carpeta "build" que se crea al hacer make y ejecutar:
+    -"java prop.Main"
+    
+Si se quiere ejecutar el .jar se debe ejecutar:
+    -"java -jar Calculo.jar"

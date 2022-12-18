@@ -1,0 +1,1 @@
+prop --> carpeta donde se encuentran las clases de test de JUnit 

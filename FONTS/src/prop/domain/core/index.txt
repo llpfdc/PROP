@@ -1,0 +1,6 @@
+Bloque --> codigo de la clase Bloque
+Celda --> codigo de la clase Celda
+Documento --> codigo de la clase Documento
+Estado --> codigo de la clase Estado
+Hoja --> codigo de la clase Hoja
+dato --> directorio donde se encuetra el codigo de la clase dato y sus clases asociadas

@@ -1,0 +1,2 @@
+Calculo --> jar ejecutable para el drive que permite probar todas lasfuncionalidades del programa
+TESTS --> directorio donde se encunetran los jars ejecutables de los JUnits para las clases principales

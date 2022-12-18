@@ -1,0 +1,2 @@
+CtrlDominio --> codigo del controlador de dominio
+core --> directorio donde se encuentran las clases principales del dominio
